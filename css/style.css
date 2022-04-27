@@ -1,0 +1,63 @@
+body {
+    background-image: url('/img/background.jpg');
+    color: rgb(210, 205, 205);
+    margin: 0px;
+}
+
+div {
+    width: auto;
+}
+.secao-topo {
+    background-color: rgb(65, 71, 251);
+    padding: 15px;
+}
+
+.secao-topo p {
+    text-align: center;
+    margin: 0px;
+    font-size: 22px;
+}
+
+.secao-conteudo {
+    text-align: center;
+}
+
+.secao-conteudo img {
+    width: 700px;
+}
+
+h1 {
+    padding-right: 370px
+}
+
+.secao-conteudo p {
+    width: 700px;
+    margin: 0px auto;
+    line-height: 30px;
+    font-size: 21px;
+    text-align: left;
+}
+
+.texto-destaque {
+    font-weight: bold;
+    color: #fff;
+}
+
+.secao-compras {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid;
+    width: 400px;
+}
+
+.secao-compras p {
+    margin-bottom: 20px;
+}
+a {
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
